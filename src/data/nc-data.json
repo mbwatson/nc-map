@@ -1,0 +1,402 @@
+[
+  {
+    "id": "ROCKINGHAM",
+    "value": 0
+  },
+  {
+    "id": "GUILFORD",
+    "value": 0
+  },
+  {
+    "id": "ALAMANCE",
+    "value": 0
+  },
+  {
+    "id": "ALEXANDER",
+    "value": 0
+  },
+  {
+    "id": "RANDOLPH",
+    "value": 0
+  },
+  {
+    "id": "WAYNE",
+    "value": 0
+  },
+  {
+    "id": "ASHE",
+    "value": 0
+  },
+  {
+    "id": "ALLEGHANY",
+    "value": 0
+  },
+  {
+    "id": "CURRITUCK",
+    "value": 0
+  },
+  {
+    "id": "CAMDEN",
+    "value": 0
+  },
+  {
+    "id": "SURRY",
+    "value": 0
+  },
+  {
+    "id": "GATES",
+    "value": 0
+  },
+  {
+    "id": "HERTFORD",
+    "value": 0
+  },
+  {
+    "id": "NORTHAMPTON",
+    "value": 0
+  },
+  {
+    "id": "STOKES",
+    "value": 0
+  },
+  {
+    "id": "WARREN",
+    "value": 0
+  },
+  {
+    "id": "VANCE",
+    "value": 0
+  },
+  {
+    "id": "GRANVILLE",
+    "value": 0
+  },
+  {
+    "id": "CASWELL",
+    "value": 0
+  },
+  {
+    "id": "PERSON",
+    "value": 0
+  },
+  {
+    "id": "PASQUOTANK",
+    "value": 0
+  },
+  {
+    "id": "HALIFAX",
+    "value": 0
+  },
+  {
+    "id": "WILKES",
+    "value": 0
+  },
+  {
+    "id": "WATAUGA",
+    "value": 0
+  },
+  {
+    "id": "PERQUIMANS",
+    "value": 0
+  },
+  {
+    "id": "CHOWAN",
+    "value": 0
+  },
+  {
+    "id": "AVERY",
+    "value": 0
+  },
+  {
+    "id": "YADKIN",
+    "value": 0
+  },
+  {
+    "id": "DARE",
+    "value": 0
+  },
+  {
+    "id": "FORSYTH",
+    "value": 0
+  },
+  {
+    "id": "FRANKLIN",
+    "value": 0
+  },
+  {
+    "id": "BERTIE",
+    "value": 0
+  },
+  {
+    "id": "ORANGE",
+    "value": 0
+  },
+  {
+    "id": "DURHAM",
+    "value": 0
+  },
+  {
+    "id": "NASH",
+    "value": 0
+  },
+  {
+    "id": "MITCHELL",
+    "value": 0
+  },
+  {
+    "id": "EDGECOMBE",
+    "value": 0
+  },
+  {
+    "id": "CALDWELL",
+    "value": 0
+  },
+  {
+    "id": "TYRRELL",
+    "value": 0
+  },
+  {
+    "id": "YANCEY",
+    "value": 0
+  },
+  {
+    "id": "MADISON",
+    "value": 0
+  },
+  {
+    "id": "MARTIN",
+    "value": 0
+  },
+  {
+    "id": "WAKE",
+    "value": 0
+  },
+  {
+    "id": "DAVIE",
+    "value": 0
+  },
+  {
+    "id": "WASHINGTON",
+    "value": 0
+  },
+  {
+    "id": "BURKE",
+    "value": 0
+  },
+  {
+    "id": "DAVIDSON",
+    "value": 0
+  },
+  {
+    "id": "MCDOWELL",
+    "value": 0
+  },
+  {
+    "id": "CHATHAM",
+    "value": 0
+  },
+  {
+    "id": "WILSON",
+    "value": 0
+  },
+  {
+    "id": "BUNCOMBE",
+    "value": 0
+  },
+  {
+    "id": "HAYWOOD",
+    "value": 0
+  },
+  {
+    "id": "CATAWBA",
+    "value": 0
+  },
+  {
+    "id": "PITT",
+    "value": 0
+  },
+  {
+    "id": "JOHNSTON",
+    "value": 0
+  },
+  {
+    "id": "SWAIN",
+    "value": 0
+  },
+  {
+    "id": "BEAUFORT",
+    "value": 0
+  },
+  {
+    "id": "HYDE",
+    "value": 0
+  },
+  {
+    "id": "GREENE",
+    "value": 0
+  },
+  {
+    "id": "RUTHERFORD",
+    "value": 0
+  },
+  {
+    "id": "LEE",
+    "value": 0
+  },
+  {
+    "id": "CLEVELAND",
+    "value": 0
+  },
+  {
+    "id": "JACKSON",
+    "value": 0
+  },
+  {
+    "id": "HARNETT",
+    "value": 0
+  },
+  {
+    "id": "GRAHAM",
+    "value": 0
+  },
+  {
+    "id": "HENDERSON",
+    "value": 0
+  },
+  {
+    "id": "MOORE",
+    "value": 0
+  },
+  {
+    "id": "MONTGOMERY",
+    "value": 0
+  },
+  {
+    "id": "STANLY",
+    "value": 0
+  },
+  {
+    "id": "TRANSYLVANIA",
+    "value": 0
+  },
+  {
+    "id": "POLK",
+    "value": 0
+  },
+  {
+    "id": "LENOIR",
+    "value": 0
+  },
+  {
+    "id": "CRAVEN",
+    "value": 0
+  },
+  {
+    "id": "MACON",
+    "value": 0
+  },
+  {
+    "id": "CHEROKEE",
+    "value": 0
+  },
+  {
+    "id": "PAMLICO",
+    "value": 0
+  },
+  {
+    "id": "SAMPSON",
+    "value": 0
+  },
+  {
+    "id": "CUMBERLAND",
+    "value": 0
+  },
+  {
+    "id": "CLAY",
+    "value": 0
+  },
+  {
+    "id": "JONES",
+    "value": 0
+  },
+  {
+    "id": "CARTERET",
+    "value": 0
+  },
+  {
+    "id": "UNION",
+    "value": 0
+  },
+  {
+    "id": "ANSON",
+    "value": 0
+  },
+  {
+    "id": "HOKE",
+    "value": 0
+  },
+  {
+    "id": "DUPLIN",
+    "value": 0
+  },
+  {
+    "id": "RICHMOND",
+    "value": 0
+  },
+  {
+    "id": "SCOTLAND",
+    "value": 0
+  },
+  {
+    "id": "ONSLOW",
+    "value": 0
+  },
+  {
+    "id": "ROBESON",
+    "value": 0
+  },
+  {
+    "id": "BLADEN",
+    "value": 0
+  },
+  {
+    "id": "PENDER",
+    "value": 0
+  },
+  {
+    "id": "COLUMBUS",
+    "value": 0
+  },
+  {
+    "id": "NEW HANOVER",
+    "value": 0
+  },
+  {
+    "id": "BRUNSWICK",
+    "value": 0
+  },
+  {
+    "id": "IREDELL",
+    "value": 0
+  },
+  {
+    "id": "ROWAN",
+    "value": 0
+  },
+  {
+    "id": "LINCOLN",
+    "value": 0
+  },
+  {
+    "id": "MECKLENBURG",
+    "value": 0
+  },
+  {
+    "id": "CABARRUS",
+    "value": 0
+  },
+  {
+    "id": "GASTON",
+    "value": 0
+  }
+]

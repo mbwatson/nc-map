@@ -1,26 +1,19 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import ncMap from './data/nc-map.json'
+import ncData from './data/nc-data.json'
+import { NorthCarolinaMap } from './components/NcMap'
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const randomData = ncData.map(({ id }) => {
+        const randomValue = Math.floor(Math.random() * 500000 + 500000)
+        return { id: id, value : randomValue }
+    })
+
+    return (
+        <div className="App">
+            <NorthCarolinaMap features={ ncMap.features } data={ randomData } height="600px" />
+        </div>
+    )
 }
 
-export default App;
+export default App
