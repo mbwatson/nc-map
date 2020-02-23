@@ -3,7 +3,7 @@ import { ResponsiveChoropleth } from '@nivo/geo'
 
 export const Map = ({ features, data, height = '300px' }) => {
     return (
-        <div className="map" style={{ height: height, border: '10px solid #f99' }} >
+        <div className="map" style={{ height: height }} >
             <ResponsiveChoropleth
                 data={ data }
                 features={ features }

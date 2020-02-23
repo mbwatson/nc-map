@@ -1,55 +1,35 @@
 import React, { useEffect, useState } from 'react'
-import axios from 'axios'
 import ncMap from './data/nc-map.json'
 import ncCities from './data/nc-cities.json'
-import ncCounties from './data/nc-counties.json'
+import styles from './app.module.css'
+import { useFccGeoApi } from './hooks'
 import { Map } from './components/map'
-
-const FCC_GEO_API = {
-    area: `https://geo.fcc.gov/api/census/area`,
-    find: `https://geo.fcc.gov/api/census/block/find`,
-}
+import { Note } from './components/note'
 
 function App() {
-    const [countyData, setCountyData] = useState([])
-
-    useEffect(() => {
-        const requests = ncCities.map(({ id, name, lat, lon }) => 
-            axios.get(
-                FCC_GEO_API.find,
-                {
-                    params: {
-                        latitude: lat,
-                        longitude: lon,
-                        showall: 'false',
-                        format: 'json',
-                    }
-                }
-            )
-        )
-        Promise.all(requests)
-            .then(responses => responses.map(({ data }) => data.County.name.toUpperCase()))
-            .then(counties => {
-                const data = {}
-                counties.forEach(county => {
-                    if (data.hasOwnProperty(county)) {
-                        data[county] += 1
-                    } else {
-                        data[county] = 1
-                    }
-                })
-                const objects = Object.keys(data).map(key => ({ id: key, value: data[key] }))
-                setCountyData(objects)
-            })
-    }, [])
+    const { geoData, isLoading, error } = useFccGeoApi(ncCities)
+    const [regionCounts, setRegionCounts] = useState({})
     
     useEffect(() => {
-        console.table(countyData)
-    }, [countyData])
+        // extract county names and put into format required for nivo map
+        const counties = geoData.map(data => data.County.name.toUpperCase())
+        const counts = { }
+        counties.forEach(county => {
+            if (counts.hasOwnProperty(county)) {
+                counts[county] += 1
+            } else {
+                counts[county] = 1
+            }
+        })
+        const objects = Object.keys(counts).map(key => ({ id: key, value: counts[key] }))
+        setRegionCounts(objects)
+    }, [geoData])
 
     return (
-        <div className="App">
-            <Map features={ ncMap.features } data={ countyData } height="600px" />
+        <div className={ styles.app }>
+            { error && <Note>{ error }</Note>}
+            { isLoading && <Note>Loading...</Note> }
+            { !isLoading && !error && <Map features={ ncMap.features } data={ regionCounts } height="600px" /> }
         </div>
     )
 }
