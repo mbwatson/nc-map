@@ -1,0 +1,152 @@
+[
+  {
+    "id": "AVL",
+    "name": "Asheville,NC",
+    "lat": 35.43,
+    "lon": -82.55
+  },
+  {
+    "id": "HAT",
+    "name": "Cape Hattera,NC",
+    "lat": 35.27,
+    "lon": -75.55
+  },
+  {
+    "id": "CLT",
+    "name": "Charlotte,NC",
+    "lat": 35.22,
+    "lon": -80.93
+  },
+  {
+    "id": "NKT",
+    "name": "Cherry Point,NC",
+    "lat": 34.90,
+    "lon": -76.88
+  },
+  {
+    "id": "2DP",
+    "name": "Dare Co Gr,NC",
+    "lat": 36.13,
+    "lon": -76.50
+  },
+  {
+    "id": "44W",
+    "name": "Diamond Sho,NC",
+    "lat": 35.25,
+    "lon": -75.50
+  },
+  {
+    "id": "ECG",
+    "name": "Elizabeth,NC",
+    "lat": 36.27,
+    "lon": -76.18
+  },
+  {
+    "id": "FAY",
+    "name": "Fayetteville,NC",
+    "lat": 35.00,
+    "lon": -78.88
+  },
+  {
+    "id": "FBG",
+    "name": "Fort Bragg,NC",
+    "lat": 35.13,
+    "lon": -78.93
+  },
+  {
+    "id": "GSO",
+    "name": "Greensboro,NC",
+    "lat": 36.08,
+    "lon": -79.95
+  },
+  {
+    "id": "HKY",
+    "name": "Hickory,NC",
+    "lat": 35.75,
+    "lon": -81.38
+  },
+  {
+    "id": "HSS",
+    "name": "Hot Springs,NC",
+    "lat": 35.90,
+    "lon": -82.82
+  },
+  {
+    "id": "OAJ",
+    "name": "Jacksonville,NC",
+    "lat": 34.82,
+    "lon": -77.62
+  },
+  {
+    "id": "ISO",
+    "name": "Kinston,NC",
+    "lat": 35.32,
+    "lon": -77.63
+  },
+  {
+    "id": "HFF",
+    "name": "Mackall Aaf,NC",
+    "lat": 35.03,
+    "lon": -79.50
+  },
+  {
+    "id": "MQI",
+    "name": "Manteo Arpt,NC",
+    "lat": 35.92,
+    "lon": -75.68
+  },
+  {
+    "id": "EWN",
+    "name": "New Bern,NC",
+    "lat": 35.08,
+    "lon": -77.05
+  },
+  {
+    "id": "NCA",
+    "name": "New River,NC",
+    "lat": 34.70,
+    "lon": -77.43
+  },
+  {
+    "id": "POB",
+    "name": "Pope AFB,NC",
+    "lat": 35.17,
+    "lon": -79.02
+  },
+  {
+    "id": "RDU",
+    "name": "Raleigh-Durh,NC",
+    "lat": 35.87,
+    "lon": -78.78
+  },
+  {
+    "id": "RWI",
+    "name": "Rocky Mt,NC",
+    "lat": 35.85,
+    "lon": -77.88
+  },
+  {
+    "id": "GSB",
+    "name": "Seymour-John,NC",
+    "lat": 35.33,
+    "lon": -77.97
+  },
+  {
+    "id": "SOP",
+    "name": "Southern Pin,NC",
+    "lat": 35.24,
+    "lon": -79.39
+  },
+  {
+    "id": "ILM",
+    "name": "Wilmington,NC",
+    "lat": 34.27,
+    "lon": -77.92
+  },
+  {
+    "id": "INT",
+    "name": "Winston-Salem,NC",
+    "lat": 36.13,
+    "lon": -80.23
+  }
+]

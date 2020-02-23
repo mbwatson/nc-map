@@ -1,402 +1,402 @@
 [
   {
-    "id": "ROCKINGHAM",
+    "id": "rockingham",
     "value": 0
   },
   {
-    "id": "GUILFORD",
+    "id": "guilford",
     "value": 0
   },
   {
-    "id": "ALAMANCE",
+    "id": "alamance",
     "value": 0
   },
   {
-    "id": "ALEXANDER",
+    "id": "alexander",
     "value": 0
   },
   {
-    "id": "RANDOLPH",
+    "id": "randolph",
     "value": 0
   },
   {
-    "id": "WAYNE",
+    "id": "wayne",
     "value": 0
   },
   {
-    "id": "ASHE",
+    "id": "ashe",
     "value": 0
   },
   {
-    "id": "ALLEGHANY",
+    "id": "alleghany",
     "value": 0
   },
   {
-    "id": "CURRITUCK",
+    "id": "currituck",
     "value": 0
   },
   {
-    "id": "CAMDEN",
+    "id": "camden",
     "value": 0
   },
   {
-    "id": "SURRY",
+    "id": "surry",
     "value": 0
   },
   {
-    "id": "GATES",
+    "id": "gates",
     "value": 0
   },
   {
-    "id": "HERTFORD",
+    "id": "hertford",
     "value": 0
   },
   {
-    "id": "NORTHAMPTON",
+    "id": "northampton",
     "value": 0
   },
   {
-    "id": "STOKES",
+    "id": "stokes",
     "value": 0
   },
   {
-    "id": "WARREN",
+    "id": "warren",
     "value": 0
   },
   {
-    "id": "VANCE",
+    "id": "vance",
     "value": 0
   },
   {
-    "id": "GRANVILLE",
+    "id": "granville",
     "value": 0
   },
   {
-    "id": "CASWELL",
+    "id": "caswell",
     "value": 0
   },
   {
-    "id": "PERSON",
+    "id": "person",
     "value": 0
   },
   {
-    "id": "PASQUOTANK",
+    "id": "pasquotank",
     "value": 0
   },
   {
-    "id": "HALIFAX",
+    "id": "halifax",
     "value": 0
   },
   {
-    "id": "WILKES",
+    "id": "wilkes",
     "value": 0
   },
   {
-    "id": "WATAUGA",
+    "id": "watauga",
     "value": 0
   },
   {
-    "id": "PERQUIMANS",
+    "id": "perquimans",
     "value": 0
   },
   {
-    "id": "CHOWAN",
+    "id": "chowan",
     "value": 0
   },
   {
-    "id": "AVERY",
+    "id": "avery",
     "value": 0
   },
   {
-    "id": "YADKIN",
+    "id": "yadkin",
     "value": 0
   },
   {
-    "id": "DARE",
+    "id": "dare",
     "value": 0
   },
   {
-    "id": "FORSYTH",
+    "id": "forsyth",
     "value": 0
   },
   {
-    "id": "FRANKLIN",
+    "id": "franklin",
     "value": 0
   },
   {
-    "id": "BERTIE",
+    "id": "bertie",
     "value": 0
   },
   {
-    "id": "ORANGE",
+    "id": "orange",
     "value": 0
   },
   {
-    "id": "DURHAM",
+    "id": "durham",
     "value": 0
   },
   {
-    "id": "NASH",
+    "id": "nash",
     "value": 0
   },
   {
-    "id": "MITCHELL",
+    "id": "mitchell",
     "value": 0
   },
   {
-    "id": "EDGECOMBE",
+    "id": "edgecombe",
     "value": 0
   },
   {
-    "id": "CALDWELL",
+    "id": "caldwell",
     "value": 0
   },
   {
-    "id": "TYRRELL",
+    "id": "tyrrell",
     "value": 0
   },
   {
-    "id": "YANCEY",
+    "id": "yancey",
     "value": 0
   },
   {
-    "id": "MADISON",
+    "id": "madison",
     "value": 0
   },
   {
-    "id": "MARTIN",
+    "id": "martin",
     "value": 0
   },
   {
-    "id": "WAKE",
+    "id": "wake",
     "value": 0
   },
   {
-    "id": "DAVIE",
+    "id": "davie",
     "value": 0
   },
   {
-    "id": "WASHINGTON",
+    "id": "washington",
     "value": 0
   },
   {
-    "id": "BURKE",
+    "id": "burke",
     "value": 0
   },
   {
-    "id": "DAVIDSON",
+    "id": "davidson",
     "value": 0
   },
   {
-    "id": "MCDOWELL",
+    "id": "mcdowell",
     "value": 0
   },
   {
-    "id": "CHATHAM",
+    "id": "chatham",
     "value": 0
   },
   {
-    "id": "WILSON",
+    "id": "wilson",
     "value": 0
   },
   {
-    "id": "BUNCOMBE",
+    "id": "buncombe",
     "value": 0
   },
   {
-    "id": "HAYWOOD",
+    "id": "haywood",
     "value": 0
   },
   {
-    "id": "CATAWBA",
+    "id": "catawba",
     "value": 0
   },
   {
-    "id": "PITT",
+    "id": "pitt",
     "value": 0
   },
   {
-    "id": "JOHNSTON",
+    "id": "johnston",
     "value": 0
   },
   {
-    "id": "SWAIN",
+    "id": "swain",
     "value": 0
   },
   {
-    "id": "BEAUFORT",
+    "id": "beaufort",
     "value": 0
   },
   {
-    "id": "HYDE",
+    "id": "hyde",
     "value": 0
   },
   {
-    "id": "GREENE",
+    "id": "greene",
     "value": 0
   },
   {
-    "id": "RUTHERFORD",
+    "id": "rutherford",
     "value": 0
   },
   {
-    "id": "LEE",
+    "id": "lee",
     "value": 0
   },
   {
-    "id": "CLEVELAND",
+    "id": "cleveland",
     "value": 0
   },
   {
-    "id": "JACKSON",
+    "id": "jackson",
     "value": 0
   },
   {
-    "id": "HARNETT",
+    "id": "harnett",
     "value": 0
   },
   {
-    "id": "GRAHAM",
+    "id": "graham",
     "value": 0
   },
   {
-    "id": "HENDERSON",
+    "id": "henderson",
     "value": 0
   },
   {
-    "id": "MOORE",
+    "id": "moore",
     "value": 0
   },
   {
-    "id": "MONTGOMERY",
+    "id": "montgomery",
     "value": 0
   },
   {
-    "id": "STANLY",
+    "id": "stanly",
     "value": 0
   },
   {
-    "id": "TRANSYLVANIA",
+    "id": "transylvania",
     "value": 0
   },
   {
-    "id": "POLK",
+    "id": "polk",
     "value": 0
   },
   {
-    "id": "LENOIR",
+    "id": "lenoir",
     "value": 0
   },
   {
-    "id": "CRAVEN",
+    "id": "craven",
     "value": 0
   },
   {
-    "id": "MACON",
+    "id": "macon",
     "value": 0
   },
   {
-    "id": "CHEROKEE",
+    "id": "cherokee",
     "value": 0
   },
   {
-    "id": "PAMLICO",
+    "id": "pamlico",
     "value": 0
   },
   {
-    "id": "SAMPSON",
+    "id": "sampson",
     "value": 0
   },
   {
-    "id": "CUMBERLAND",
+    "id": "cumberland",
     "value": 0
   },
   {
-    "id": "CLAY",
+    "id": "clay",
     "value": 0
   },
   {
-    "id": "JONES",
+    "id": "jones",
     "value": 0
   },
   {
-    "id": "CARTERET",
+    "id": "carteret",
     "value": 0
   },
   {
-    "id": "UNION",
+    "id": "union",
     "value": 0
   },
   {
-    "id": "ANSON",
+    "id": "anson",
     "value": 0
   },
   {
-    "id": "HOKE",
+    "id": "hoke",
     "value": 0
   },
   {
-    "id": "DUPLIN",
+    "id": "duplin",
     "value": 0
   },
   {
-    "id": "RICHMOND",
+    "id": "richmond",
     "value": 0
   },
   {
-    "id": "SCOTLAND",
+    "id": "scotland",
     "value": 0
   },
   {
-    "id": "ONSLOW",
+    "id": "onslow",
     "value": 0
   },
   {
-    "id": "ROBESON",
+    "id": "robeson",
     "value": 0
   },
   {
-    "id": "BLADEN",
+    "id": "bladen",
     "value": 0
   },
   {
-    "id": "PENDER",
+    "id": "pender",
     "value": 0
   },
   {
-    "id": "COLUMBUS",
+    "id": "columbus",
     "value": 0
   },
   {
-    "id": "NEW HANOVER",
+    "id": "new hanover",
     "value": 0
   },
   {
-    "id": "BRUNSWICK",
+    "id": "brunswick",
     "value": 0
   },
   {
-    "id": "IREDELL",
+    "id": "iredell",
     "value": 0
   },
   {
-    "id": "ROWAN",
+    "id": "rowan",
     "value": 0
   },
   {
-    "id": "LINCOLN",
+    "id": "lincoln",
     "value": 0
   },
   {
-    "id": "MECKLENBURG",
+    "id": "mecklenburg",
     "value": 0
   },
   {
-    "id": "CABARRUS",
+    "id": "cabarrus",
     "value": 0
   },
   {
-    "id": "GASTON",
+    "id": "gaston",
     "value": 0
   }
 ]

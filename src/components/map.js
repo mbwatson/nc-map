@@ -1,7 +1,7 @@
 import React from 'react'
 import { ResponsiveChoropleth } from '@nivo/geo'
 
-export const NorthCarolinaMap = ({ features, data, height = '300px' }) => {
+export const Map = ({ features, data, height = '300px' }) => {
     return (
         <div className="map" style={{ height: height, border: '10px solid #f99' }} >
             <ResponsiveChoropleth
@@ -9,7 +9,7 @@ export const NorthCarolinaMap = ({ features, data, height = '300px' }) => {
                 features={ features }
                 margin={{ top: 0, right: 0, bottom: 0, left: 0 }}
                 colors="BrBG"
-                domain={ [0, 1000000] }
+                domain={ [0, 5] }
                 unknownColor="#f99"
                 label="id"
                 value="value"
